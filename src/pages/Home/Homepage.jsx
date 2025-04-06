@@ -1,6 +1,5 @@
 import React from 'react';
 import { Box, Heading, Text } from '@chakra-ui/react';
-import  logo from "../../assets/left.png";
 
 const Homepage = () => {
   return (
